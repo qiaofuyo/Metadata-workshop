@@ -1,0 +1,110 @@
+[
+{
+	"_id": "recommend",
+	"name": "推荐",
+	"primary_classify": "A",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58fd69dc936edf42508b48de",
+	"name": "安心蔬菜",
+	"primary_classify": "B",
+	"timestamp": 1581016118
+},
+{
+	"_id": "590c1928936edf767a8daa6f",
+	"name": "豆制品",
+	"primary_classify": "C",
+	"timestamp": 1581016118
+},
+{
+	"_id": "595edd01916edf5011ca395d",
+	"name": "新鲜水果",
+	"primary_classify": "D",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58fefa38916edf9b128b45fc",
+	"name": "肉禽蛋",
+	"primary_classify": "E",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58fefb94936edf5f5d8b4767",
+	"name": "海鲜水产",
+	"primary_classify": "F",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58ff04e6936edfc57a8b464f",
+	"name": "乳品烘焙",
+	"primary_classify": "G",
+	"timestamp": 1581016118
+},
+{
+	"_id": "5ab06a0845cd42b3598bfa55",
+	"name": "营养早餐",
+	"primary_classify": "H",
+	"timestamp": 1581016118
+},
+{
+	"_id": "5cd53472b0055a0b517a9d97",
+	"name": "叮咚心选",
+	"primary_classify": "I",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58ff04c5936edf777a8b46af",
+	"name": "米面粮油",
+	"primary_classify": "J",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58ff0496936edf747a8b4612",
+	"name": "调味品",
+	"primary_classify": "K",
+	"timestamp": 1581016118
+},
+{
+	"_id": "5a27abc0936edf39418c236c",
+	"name": "方便速食",
+	"primary_classify": "L",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58ff04d2936edf747a8b461b",
+	"name": "酒水饮料",
+	"primary_classify": "M",
+	"timestamp": 1581016118
+},
+{
+	"_id": "5a279d78916edf1544959b5a",
+	"name": "休闲零食",
+	"primary_classify": "N",
+	"timestamp": 1581016118
+},
+{
+	"_id": "5a69bc6a936edf9b3f8bf82a",
+	"name": "快手菜",
+	"primary_classify": "O",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58ff0481936edfc57a8b463d",
+	"name": "南北干货",
+	"primary_classify": "P",
+	"timestamp": 1581016118
+},
+{
+	"_id": "59925f17936edf1d6f8c5a2a",
+	"name": "宝宝餐",
+	"primary_classify": "Q",
+	"timestamp": 1581016118
+},
+{
+	"_id": "58ff043c916edf48288b45a3",
+	"name": "厨房用品",
+	"primary_classify": "R",
+	"timestamp": 1581016118
+}
+]

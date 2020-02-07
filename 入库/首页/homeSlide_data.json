@@ -1,0 +1,30 @@
+{
+	"name": "双十二年终狂欢",
+	"image_url": "http://127.0.0.1:3000/images/home/slide/s1.jpg",
+	"goto": "https://www.baidu.com/"
+}
+{
+	"name": "果冻橘",
+	"image_url": "http://127.0.0.1:3000/images/home/slide/s2.jpg",
+	"goto": "https://www.baidu.com/"
+}
+{
+	"name": "滩羊肉",
+	"image_url": "http://127.0.0.1:3000/images/home/slide/s3.jpg",
+	"goto": "https://www.baidu.com/"
+}
+{
+	"name": "饼干",
+	"image_url": "http://127.0.0.1:3000/images/home/slide/s4.jpg",
+	"goto": "https://www.baidu.com/"
+}
+{
+	"name": "年终榜单",
+	"image_url": "http://127.0.0.1:3000/images/home/slide/s5.jpg",
+	"goto": "https://www.baidu.com/"
+}
+{
+	"name": "羊蝎子",
+	"image_url": "http://127.0.0.1:3000/images/home/slide/s6.jpg",
+	"goto": "https://www.baidu.com/"
+}
